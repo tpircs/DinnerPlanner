@@ -1,0 +1,7 @@
+taco%4.0%ingr3:3.3,ingr2:2.2,ingr1:1.1
+Røbetburger%4.0%ingr3:3.3,ingr2:2.2,ingr1:1.1
+Linsepannekaker%4.0%ingr3:3.3,ingr2:2.2,ingr1:1.1
+Wok%4.0%ingr3:3.3,ingr2:2.2,ingr1:1.1
+taco%4.0%ingr3:3.3,ingr2:2.2,ingr1:1.1
+Gulrotsuppe%4.0%ingr3:3.3,ingr2:2.2,ingr1:1.1
+Soppsuppe%4.0%ingr3:3.3,ingr2:2.2,ingr1:1.1
